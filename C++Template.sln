@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类模板派生普通类", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类模板派生类模板", "类模板派生类模板\类模板派生类模板.vcxproj", "{27C2FC42-D780-417A-B380-C7D477A0AD3F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类模板类内实现", "类模板类内实现\类模板类内实现.vcxproj", "{DF74DAC6-51DE-4817-B71B-43DE6435A85A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{27C2FC42-D780-417A-B380-C7D477A0AD3F}.Release|x64.Build.0 = Release|x64
 		{27C2FC42-D780-417A-B380-C7D477A0AD3F}.Release|x86.ActiveCfg = Release|Win32
 		{27C2FC42-D780-417A-B380-C7D477A0AD3F}.Release|x86.Build.0 = Release|Win32
+		{DF74DAC6-51DE-4817-B71B-43DE6435A85A}.Debug|x64.ActiveCfg = Debug|x64
+		{DF74DAC6-51DE-4817-B71B-43DE6435A85A}.Debug|x64.Build.0 = Debug|x64
+		{DF74DAC6-51DE-4817-B71B-43DE6435A85A}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF74DAC6-51DE-4817-B71B-43DE6435A85A}.Debug|x86.Build.0 = Debug|Win32
+		{DF74DAC6-51DE-4817-B71B-43DE6435A85A}.Release|x64.ActiveCfg = Release|x64
+		{DF74DAC6-51DE-4817-B71B-43DE6435A85A}.Release|x64.Build.0 = Release|x64
+		{DF74DAC6-51DE-4817-B71B-43DE6435A85A}.Release|x86.ActiveCfg = Release|Win32
+		{DF74DAC6-51DE-4817-B71B-43DE6435A85A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
